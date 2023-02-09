@@ -4,7 +4,7 @@ Basic Todo List
 About the Project: 📚
 Simple Todo Application where user can add and delete the task. Moreover, Application stores the previously added task in the local system and display when the application reload. 
 
-Technologies Used: ☕️ 🐍 ⚛️
+Technologies Used: ☕️ ⚛️
 React, Bootstrap
 
 Approach: 🚶
