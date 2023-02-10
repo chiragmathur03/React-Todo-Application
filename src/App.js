@@ -79,7 +79,7 @@ function App() {
   <Router>
       <Header title="Todo List" searchBar={false} />
         <Routes>
-          <Route exact path="/home" element={<Home/>} />
+          <Route exact path="/" element={<Home/>} />
           <Route exact path="/about" element={<About/>}/>
         </Routes>
       <Footer />
