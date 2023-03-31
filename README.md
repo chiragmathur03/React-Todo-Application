@@ -12,8 +12,13 @@ Approach: 🚶
 2. Import Components into the Application file (App.js)
 3. Use React Routing to render pages without loading
 
+Following are the things which I Learned while making this project:
+1. React Basics - Props, Components, Types of Components, Functions, Imports and Exports
+2. Access to Local Storage
+3. Bootstrap
+
 Status: 📶
-In Progress
+Completed
 
 License: ©️
 Open-Source
